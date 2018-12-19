@@ -175,7 +175,7 @@ setup(
         "eth_utils",
         "jsonschema",
         "mypy_extensions",
-        "web3",
+        "0x-web3",
     ],
     extras_require={
         "dev": [
