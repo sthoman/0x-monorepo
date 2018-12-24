@@ -28,6 +28,7 @@ export {
     OrderAndTraderInfo,
     TraderInfo,
     ValidateOrderFillableOpts,
+    DutchAuctionData,
 } from '@0x/contract-wrappers';
 
 export {
@@ -86,6 +87,7 @@ export {
     SignatureType,
     OrderRelevantState,
     Stats,
+    DutchAuctionDetails,
 } from '@0x/types';
 
 export {
